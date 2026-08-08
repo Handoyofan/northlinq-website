@@ -57,14 +57,6 @@ blog/               Insights          images/   Images
 contact/            Contact           fonts/    Webfonts
 ```
 
-**Run locally** — a file server is required, as the pages load JavaScript modules:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open <http://localhost:8000>.
-
 **Deploy** — publishing happens automatically on push to `main`. The site can also be hosted
 anywhere that serves static files: upload the repository contents so `index.html` sits at
 the web root.
