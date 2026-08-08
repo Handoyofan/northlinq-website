@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://northlinq.framer.website/sitemap.xml
+Sitemap: https://handoyofan.github.io/northlinq-website/sitemap.xml

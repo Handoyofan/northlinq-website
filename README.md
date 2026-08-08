@@ -35,6 +35,7 @@ consulting and develop custom intelligent systems aligned with your goals.
 | [About](https://handoyofan.github.io/northlinq-website/about) | Who we are and how we help businesses grow |
 | [Insights](https://handoyofan.github.io/northlinq-website/blog) | Articles on AI, automation, and business operations |
 | [Contact](https://handoyofan.github.io/northlinq-website/contact) | Get in touch or book a discovery call |
+| [Privacy Policy](https://handoyofan.github.io/northlinq-website/privacy-policy) · [Terms of Services](https://handoyofan.github.io/northlinq-website/terms-of-services) | Legal |
 
 ## Latest articles
 
